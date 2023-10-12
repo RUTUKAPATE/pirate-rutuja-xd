@@ -17,9 +17,15 @@ favicon: /-/rutukapate.github.io/pirate-rutuja-xd/favicon.ico
 # Home: index.html
 
 # Projects: /projects/
- - Sayak Personal Portfolio: projects/sayak-personal-portfolio-page/
- - Shantnu Freelance Portfolio: projects/shantnu-freelance-portfolio-page/
- - Rutuja Buisness Portfolio: projects/rutuja-business-portfolio-page/
+
+- Sayak Personal Portfolio: projects/sayak-personal-portfolio-page/
+document: /projects/sayak-personal-portfolio-page.ftd
+- Shantnu Freelance Portfolio: projects/shantnu-freelance-portfolio-page/
+document: /projects/shantnu-freelance-portfolio-page.ftd
+- Rutuja Buisness Portfolio: projects/rutuja-business-portfolio-page/
+document: /projects/rutuja-business-portfolio-page.ftd
 
 # Sprints: /sprints/
- - fast-ober-1: /sprints/fast-ober-1/
+
+- fast-ober-1: /sprints/fast-ober-1/
+document: /sprints/fast-ober-1.ftd

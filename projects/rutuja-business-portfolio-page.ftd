@@ -1,36 +1,51 @@
 -- ds.page: Rutuja Business Portfolio Page
 site-name: Pirate Rutuja XD
+site-logo: $assets.files.assets.logo.png
 
 - Owner: Rutuja (link)
 - Sprint: fast-ober-1 (link)
-- Repo: 
-- Design: 
+- Repo: https://github.com/RUTUKAPATE/fastn-project-1
+- Design: https://freehtml5.co/preview/?item=architect-free-html5-bootstrap-template-for-architects-and-portfolio-websites
 - Status: In Progress
 
--- ds.h1: 9th Oct
+-- ds.h1: 12th Oct
 
-- Project Kick Off
+- Home Page Created
+
+-- ds.h1: 11th Oct
+
+- Design of the Website Selected
 
 -- ds.h1: 10th Oct
 
 - Rutuja decided the roles of the team and the designs
 
+-- ds.h1: 9th Oct
+
+- Project Kick Off
+
 -- ds.h1: Design
 
-Describe the design. Link to Figma. Mention name of each page if there is going to be more than one page.
+Design of the Website is taken from the reference. This Website's design will be formal since it is a Business Website.
 
 -- ds.h1: Audiance Of This Project
 
-People who are interested in Rutuja, professionally are the key audiance of this page. This page would be linked from Rutuja various social media profiles, resume etc. 
+People who are interested in making their own Business Website, professionally are the key audiance of this page. This page would be linked from various business profiles, e-commerce websites, etc. 
 
 -- ds.h1: Goal of This Project (for the audiance)
 
-This page is to show off Rutuja in the best light possible. Maybe get a job.
+This page is to show off the Marketing Strategies of a Business in the best light possible. 
 
-This is a multiple page website. It has 5 sections
+This is a multiple page website. It has 4 sections
 
--- ds.h2: Home Page
+-- ds.h2: Portfolio Page
 
 This section shows the front page of the website.
+
+-- ds.h2: Single Page
+
+-- ds.h2: DropDown Page
+
+-- ds.h2: Contact Page
 
 -- end: ds.page

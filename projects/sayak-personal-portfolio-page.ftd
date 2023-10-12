@@ -1,35 +1,60 @@
--- ds.page: Sayak Personal Portfolio Page
+-- ds.page: Sayak Personal Portfolio Website
+site-name: Pirate Rutuja XD
+site-logo: $assets.files.assets.logo.png
 
-- Owner:  Sayak (link)
-- Sprint: fast-ober-1 (link)
-- Repo: 
-- Design: 
+- Owner:  Sayak
+- Sprint: fast-ober-1
+- Repo: https://github.com/sayakongit/fastn-portfolio
+- Design: https://sayakongit.github.io/
 - Status: In Progress
+
+-- ds.h1: 12th Oct
+
+- Sayak created the Home Page using misty-gray template.
+
+-- ds.h1: 11th Oct
+
+- No Updates from Sayak.
+
+-- ds.h1: 10th Oct
+
+- Sayak decided to work on the Personal Portfolio Project and took his personal portfolio website for reference.
 
 -- ds.h1: 9th Oct
 
 - Project Kick Off
 
--- ds.h1: 10th Oct
-
-- Sayak decided to work on the Personal Portfolio Project
-
 -- ds.h1: Design
 
-Describe the design. Link to Figma. Mention name of each page if there is going to be more than one page.
+The design of this website is made from misty-gray template. Also as a reference he took his personal portfolio website which was made from html,css,js,etc...
 
 -- ds.h1: Audiance Of This Project
 
-People who are interested in Sayak, professionally are the key audiance of this page. This page would be linked from Adarsh various social media profiles, resume etc. 
+People who are interested in Sayak, professionally are the key audiance of this page. This page would be linked from Sayak's various social media profiles, resume etc. This page can be used by other's as a template.  
 
 -- ds.h1: Goal of This Project (for the audiance)
 
 This page is to show off Sayak in the best light possible. Maybe to get a job.
 
-This is a multiple page website. It has 5 sections
+This is a multiple page website. It has 5 sections-->
+
+- Home Page
+- About Page
+- Experience Page
+- Projects Page
+- Contact Page
 
 -- ds.h2: Home Page
 
-This section shows the front page of the website.
+- This section shows the front page of the website.
+- It basically includes the navbar, personal introduction, and the footer.
+
+-- ds.h2: About Page
+
+-- ds.h2: Experience Page
+
+-- ds.h2: Projects Page
+
+-- ds.h2: Contact Page 
 
 -- end: ds.page

@@ -1,4 +1,6 @@
 -- ds.page: Sprint 1 Of October 2023
+site-name: Pirate Rutuja XD
+site-logo: $assets.files.assets.logo.png
 
 - Start: 9th Oct 2023  
 - End: 15th Oct 2023
@@ -11,9 +13,17 @@
 
 -- ds.h1: Projects
 
-- Rutuja Business Portfolio Page: On Track
-- Shantnu Freelance Portfolio Page: On Track
-- Sayak Personal Portfolio Page: On Track
+- Rutuja Business Portfolio Website: In progress
+- Shantnu Freelance Portfolio Website: In progress
+- Sayak Personal Portfolio Website: In progress
+
+-- ds.h1: 12th Oct 2023
+
+- Attended By: Sayak, Rutuja
+- Meet Timing: 9:10PM - 9:40PM (30 Mins)
+- Discussed on the Task-2.
+- Task-1 Completed.
+- Discussed on building components and not using templates.
 
 -- ds.h1: 11th Oct 2023
 
@@ -36,5 +46,17 @@
 - Attended By: AmitU, Arpita, Shantnu, Rutuja, Sayak
 - We discussed how the lead program works
 - We decided the name and composition of our project
+
+-- ds.h1: Task-1:
+
+- To complete the Home-Page of all Projects by 11th Oct 23
+
+-- ds.h2: Task-2:
+
+- To complete the other Pages structure by 15th Oct 23
+
+-- ds.h1: Agenda of fast-ober-1
+
+- To complete with all the multi pages design's structure.
 
 -- end: ds.page
