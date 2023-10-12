@@ -16,4 +16,10 @@ favicon: /-/rutukapate.github.io/pirate-rutuja-xd/favicon.ico
 
 # Home: index.html
 
-- Right Sidebar Sample: /sidebar/
+# Projects: /projects/
+ - Sayak Personal Portfolio: projects/sayak-personal-portfolio-page/
+ - Shantnu Freelance Portfolio: projects/shantnu-freelance-portfolio-page/
+ - Rutuja Buisness Portfolio: projects/rutuja-business-portfolio-page/
+
+# Sprints: /sprints/
+ - fast-ober-1: /sprints/fast-ober-1/
