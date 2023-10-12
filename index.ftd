@@ -1,4 +1,4 @@
--- ds.page: Pirate Rutuja XD
+-- ds.page:
 site-name: Pirate Rutuja XD
 site-logo: $assets.files.assets.logo.png
 
@@ -38,19 +38,32 @@ Sayak and Shantnu are part of our team.
 -- ds.h3: ⚡️ Work Status
 
 - Design of Portfolios: In Progress
+- Design of Home Pages: Completed
+- Structure of Home Pages: Completed
 
--- ds.h3: ⚡️ Minutes of Meeting:
+-- ds.h3: ⏳ Minutes of Meeting:
 
-- Meeting Date - 11th October, 2023
-- Meeting Timing - 7:10PM - 7:35PM (35 minutes)
-- Attendees - Shantnu, Rutuja, AmitU
+- Meeting Date: 12th October, 2023
+- Meeting Timing:  9:10PM - 9:40PM (30 minutes)
+- Attendees: Sayak, Rutuja
 
-- Meeting Date - 10th October, 2023
-- Meeting Timing - 7:00PM - 7:45PM (45 minutes)
-- Attendees - Shantnu, Rutuja, Sayak
+- Meeting Date: 11th October, 2023
+- Meeting Timing:  7:10PM - 7:35PM (35 minutes)
+- Attendees: Shantnu, Rutuja, AmitU
 
--- ds.h3: ⚡️ References:
+- Meeting Date: 10th October, 2023
+- Meeting Timing: 7:00PM - 7:45PM (45 minutes)
+- Attendees: Shantnu, Rutuja, Sayak
 
-- [Temporary Logo](https://w7.pngwing.com/pngs/814/802/png-transparent-boy-illustration-one-piece-pirate-warriors-roronoa-zoro-monkey-d-luffy-portgas-d-ace-buggy-one-flag-text-logo.png)
+- Meeting Date: 9th October, 2023
+- Meeting Timing: 7:00PM - 8:00PM (60 minutes)
+- Attendees: Shantnu, Rutuja, Sayak, AmitU, Arpita
+
+-- ds.h3: 💻 References:
+
+- [Rutuja's Buisness Portfolio Design](https://freehtml5.co/preview/?item=architect-free-html5-bootstrap-template-for-architects-and-portfolio-websites)
+- [Sayak's Personal Portfolio Design](https://sayakongit.github.io/)
+- [Shantnu's Canva Design](https://www.canva.com/design/DAFxBo3l4tw/EJzKjEQygfBnDUUOucBbhA/view)
+- [Team Temporary Logo Design](https://w7.pngwing.com/pngs/814/802/png-transparent-boy-illustration-one-piece-pirate-warriors-roronoa-zoro-monkey-d-luffy-portgas-d-ace-buggy-one-flag-text-logo.png)
 
 -- end: ds.page

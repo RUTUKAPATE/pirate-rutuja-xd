@@ -1,10 +1,20 @@
--- ds.page: Shantnu Freelance Portfolio Page
+-- ds.page: Shantnu Freelance Portfolio Website
+site-name: Pirate Rutuja XD
+site-logo: $assets.files.assets.logo.png
 
-- Owner: Shantnu (link)
-- Sprint: fast-ober-1 (link)
-- Repo: 
-- Design:
+- Owner: Shantnu
+- Sprint: fast-ober-1
+- Repo: https://itz-shantnu097.github.io/BLUE-MAVERICKS/
+- Design: https://www.canva.com/design/DAFxBo3l4tw/EJzKjEQygfBnDUUOucBbhA/edit?utm_content=DAFxBo3l4tw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 - Status: In Progress
+
+-- ds.h1: 12th Oct
+
+- Started creating the Home Page as per the designs. He created the navbar, footer and added the backgrounds. He got some errors in setting the backgrounds so he is working on that.
+
+-- ds.h1: 11th Oct
+
+- Made the Design of his project using [Canva](https://www.canva.com/design/DAFxBo3l4tw/EJzKjEQygfBnDUUOucBbhA/edit?utm_content=DAFxBo3l4tw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
 -- ds.h1: 9th Oct
 
@@ -25,11 +35,31 @@ Describe the design. Link to Figma. Mention name of each page if there is going 
 
 -- ds.h1: Goal of This Project (for the audiance)
 
-- This page is to show off Shantnu in the best light possible. Maybe get a job.
-- This is a multiple page website. It has 5 sections
+This page is to show off Shantnu in the best light possible. Maybe get a job.
+
+This is a multiple page website. It has 6 sections-->
+
+- Home Page
+- About Page
+- Services Page
+- Portfolio Page
+- Pricing Page
+- Experience Page
 
 -- ds.h2: Home Page
 
-This section shows the front page of the website.
+This section shows the front page of the website. This page covers the short Introduction of the Owner with his Image and a Hire Me Button.
+
+-- ds.h2: About Page
+
+This section briefly discribes the details of the owner and the skills his is expert in.
+
+-- ds.h2: Services Page
+
+-- ds.h2: Portfolio Page
+
+-- ds.h2: Pricing Page
+
+-- ds.h2: Experience Page
 
 -- end: ds.page
