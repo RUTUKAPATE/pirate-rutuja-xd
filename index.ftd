@@ -1,40 +1,56 @@
--- ds.page: Welcome to doc-site
+-- ds.page: Pirate Rutuja XD
+site-name: Pirate Rutuja XD
+site-logo: $assets.files.assets.logo.png
 
+- Pirate Rutuja XD team was created on 9th Oct 2023.
+- Discord: [#pirate-rutuja-xd on fastn-stack](https://discord.com/channels/793929082483769345/1160940053044936704).
 
-⚡️ `doc-site` will help you create a beautiful documentation site in no time.
+-- ds.h1: Team Lead
 
-It provides out-of-the-box documentation features that can be used to create any
-kind of site(personal website, blog, etc).
+Rutuja is the team lead of the team Pirate Rutuja XD
 
-[Click here](https://fastn-community.github.io/doc-site/) to read doc-site
-documentation.
+-- ds.h1: Team Members
 
--- ds.h3: 🚀 Fast Track 
+Sayak and Shantnu are part of our team.
 
-Create your first fastn [web-site](https://fastn.com/expander/hello-world/-/build/) 
-project in just 5 minutes!
+-- ds.h1: Sprints
 
--- ds.h3: 🌟 Whats next?
+- [fast-ober-1](sprints/fast-ober-1/)
 
-Create your first page. 
-[Click here to know more](https://fastn-community.github.io/doc-site/components/page/).
+-- ds.h3: ⚡️ Project Overview:
 
--- ds.h3: 👀 Want to learn more?
+- The project involves the creation of a comprehensive portfolio website with three distinct sections:
+- Personal Portfolio, Freelance Portfolio, and Business Portfolio. 
+- Each section will cater to different audiences and purposes.
 
-Feel free to check [our expander course](https://fastn.com/expander/) or jump
-into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
+-- ds.h3: ⚡ Goals and Objectives of the Project:
 
+- Personal Portfolio: Showcase personal skills, projects, and experiences.
+- Freelance Portfolio: Highlight freelance work and attract potential clients.
+- Business Portfolio: Display business-related projects and capabilities.
 
--- ds.h3: 🎯 Used by?
+-- ds.h3: ⚡️ Technology Stack:
 
-Our all documentation sites uses this `doc-site` theme.
+- language is ftd
 
-- [fastn.com](https://fastn.com/home/)
-- [FifthTry.com](https://www.fifthtry.com/)
+-- ds.h3: ⚡️ Project Agenda:
 
--- ds.h2: Learn fastn and become a pro?
+-- ds.h3: ⚡️ Work Status
 
-You are one click away, just check [our documentation](https://fastn.com/) and 
-dont forget to jump into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
+- Design of Portfolios: In Progress
+
+-- ds.h3: ⚡️ Minutes of Meeting:
+
+- Meeting Date - 11th October, 2023
+- Meeting Timing - 7:10PM - 7:35PM (35 minutes)
+- Attendees - Shantnu, Rutuja, AmitU
+
+- Meeting Date - 10th October, 2023
+- Meeting Timing - 7:00PM - 7:45PM (45 minutes)
+- Attendees - Shantnu, Rutuja, Sayak
+
+-- ds.h3: ⚡️ References:
+
+- [Temporary Logo](https://w7.pngwing.com/pngs/814/802/png-transparent-boy-illustration-one-piece-pirate-warriors-roronoa-zoro-monkey-d-luffy-portgas-d-ace-buggy-one-flag-text-logo.png)
 
 -- end: ds.page
