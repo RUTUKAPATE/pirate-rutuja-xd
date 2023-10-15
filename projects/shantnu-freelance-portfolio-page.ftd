@@ -1,6 +1,7 @@
 -- ds.page: Shantnu Freelance Portfolio Website
 site-name: Pirate Rutuja XD
 site-logo: $assets.files.assets.newlogo.png
+logo-height: 150
 
 - Owner: Shantnu
 - Sprint: fast-ober-1
