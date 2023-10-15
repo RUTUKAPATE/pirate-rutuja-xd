@@ -1,6 +1,7 @@
 -- ds.page: Sprint 1 Of October 2023
 site-name: Pirate Rutuja XD
 site-logo: $assets.files.assets.newlogo.png
+logo-height: 150
 
 - Start: 9th Oct 2023  
 - End: 15th Oct 2023
