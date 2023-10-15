@@ -1,12 +1,20 @@
 -- ds.page: Sayak Personal Portfolio Website
 site-name: Pirate Rutuja XD
-site-logo: $assets.files.assets.logo.png
+site-logo: $assets.files.assets.newlogo.png
 
 - Owner:  Sayak
 - Sprint: fast-ober-1
 - Repo: https://github.com/sayakongit/fastn-portfolio
 - Design: https://sayakongit.github.io/
 - Status: In Progress
+
+-- ds.h1: 14th Oct
+
+- No Updates
+
+-- ds.h1: 13th Oct
+
+- No Updates
 
 -- ds.h1: 12th Oct
 

@@ -1,12 +1,20 @@
 -- ds.page: Rutuja Business Portfolio Page
 site-name: Pirate Rutuja XD
-site-logo: $assets.files.assets.logo.png
+site-logo: $assets.files.assets.newlogo.png
 
 - Owner: Rutuja (link)
 - Sprint: fast-ober-1 (link)
 - Repo: https://github.com/RUTUKAPATE/fastn-project-1
 - Design: https://freehtml5.co/preview/?item=architect-free-html5-bootstrap-template-for-architects-and-portfolio-websites
 - Status: In Progress
+
+-- ds.h1: 14th Oct
+
+- Solved the error with Adarsh's instruction and made the home-page resposive, also added font style in the home-page.
+
+-- ds.h1: 13th Oct
+
+- Added animation but got error.
 
 -- ds.h1: 12th Oct
 
