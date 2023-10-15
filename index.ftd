@@ -1,7 +1,7 @@
 -- ds.page:
 site-name: Pirate Rutuja XD
 site-logo: $assets.files.assets.newlogo.png
-logo-width: 170
+;;logo-width: 170
 logo-height: 170
 
 - Pirate Rutuja XD team was created on 9th Oct 2023.
