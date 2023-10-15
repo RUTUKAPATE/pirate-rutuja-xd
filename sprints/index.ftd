@@ -1,5 +1,6 @@
 -- ds.page: Sprints
 site-name: Pirate Rutuja XD
 site-logo: $assets.files.assets.newlogo.png
+logo-height: 150
 
 -- end: ds.page
