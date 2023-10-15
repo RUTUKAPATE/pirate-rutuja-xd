@@ -1,6 +1,7 @@
 -- ds.page: Rutuja Business Portfolio Page
 site-name: Pirate Rutuja XD
 site-logo: $assets.files.assets.newlogo.png
+logo-height: 150
 
 - Owner: Rutuja (link)
 - Sprint: fast-ober-1 (link)
