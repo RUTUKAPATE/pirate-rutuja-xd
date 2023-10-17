@@ -111,10 +111,10 @@ region: h1
 
 -- ftd.video
 src: https://www.loom.com/share/6345ca2c48fe4836bc91016b511cef1a?sid=ed874407-2434-4799-a9d1-8ceca7556e4e
-controls: true
+;;controls: true
 width.fixed.px: 400
 height.fixed.px: 300
-fit: contain
+;;fit: contain
 
 -- ds.h3: 📚 References:
 
