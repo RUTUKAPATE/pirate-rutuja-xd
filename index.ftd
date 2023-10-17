@@ -107,12 +107,19 @@ background.solid: grey
 border-radius.px: 10
 width: fill-container
 height: fill-container
+padding.px: 10
 
--- ftd.text: 01. Meeting Date: 9th October, 2023
+-- ftd.text:
 
--- ftd.text: 02. Meeting Timing: 7:00PM - 8:00PM (60 minutes)
+- Meeting Date: 9th October, 2023
 
--- ftd.text: 03. Attendees: Shantnu, Rutuja, Sayak, AmitU, Arpita
+-- ftd.text:
+
+- Meeting Timing: 7:00PM - 8:00PM (60 minutes)
+
+-- ftd.text:
+
+- Attendees: Shantnu, Rutuja, Sayak, AmitU, Arpita
 
 -- end: ftd.column 
 
