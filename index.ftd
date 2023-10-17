@@ -61,45 +61,45 @@ background.solid: grey
 ;;-- ftd.column:
 ;;background.solid: grey
 
-- Meeting Date: 13th October, 2023
-- Meeting Timing: 7:00PM - 7:30PM
-- Attendees: Shantnu, Rutuja
+;;- Meeting Date: 13th October, 2023
+;;- Meeting Timing: 7:00PM - 7:30PM
+;;- Attendees: Shantnu, Rutuja
 
 ;;-- end: ftd.column 
 
 ;;-- ftd.column:
 ;;background.solid: grey
 
-- Meeting Date: 12th October, 2023
-- Meeting Timing:  9:10PM - 9:40PM (30 minutes)
-- Attendees: Sayak, Rutuja
+;;- Meeting Date: 12th October, 2023
+;;- Meeting Timing:  9:10PM - 9:40PM (30 minutes)
+;;- Attendees: Sayak, Rutuja
 
 ;;-- end: ftd.column
 
 ;;-- ftd.column:
 ;;background.solid: grey
 
-- Meeting Date: 11th October, 2023
-- Meeting Timing:  7:10PM - 7:35PM (35 minutes)
-- Attendees: Shantnu, Rutuja, AmitU
+;;- Meeting Date: 11th October, 2023
+;;- Meeting Timing:  7:10PM - 7:35PM (35 minutes)
+;;- Attendees: Shantnu, Rutuja, AmitU
 
 ;;-- end: ftd.column 
 
 ;;-- ftd.column:
 ;;background.solid: grey
 
-- Meeting Date: 10th October, 2023
-- Meeting Timing: 7:00PM - 7:45PM (45 minutes)
-- Attendees: Shantnu, Rutuja, Sayak
+;;- Meeting Date: 10th October, 2023
+;;- Meeting Timing: 7:00PM - 7:45PM (45 minutes)
+;;- Attendees: Shantnu, Rutuja, Sayak
 
 ;;-- end: ftd.column 
 
 ;;-- ftd.column:
 ;;background.solid: grey
 
-- Meeting Date: 9th October, 2023
-- Meeting Timing: 7:00PM - 8:00PM (60 minutes)
-- Attendees: Shantnu, Rutuja, Sayak, AmitU, Arpita
+;;- Meeting Date: 9th October, 2023
+;;- Meeting Timing: 7:00PM - 8:00PM (60 minutes)
+;;- Attendees: Shantnu, Rutuja, Sayak, AmitU, Arpita
 
 ;;-- end: ftd.column 
 
