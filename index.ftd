@@ -55,7 +55,9 @@ height: fill-container
 padding.px: 10
 
 -- ftd.text: Meeting Date: 16th October, 2023
+
 -- ftd.text: Meeting Timing: 9:30PM - 10:20PM (50 minutes)
+
 -- ftd.text: Attendees: Sayak, Rutuja, AmitU
 
 -- end: ftd.column
