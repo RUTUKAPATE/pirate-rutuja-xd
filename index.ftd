@@ -103,7 +103,9 @@ Sayak and Shantnu are part of our team.
 
 ;;-- end: ftd.column
 
--- ds.h3: Demo Day 1
+-- ftd.text: Demo Day 1
+style: bold
+region: h1
 
 -- ftd.video
 src: https://www.loom.com/share/6345ca2c48fe4836bc91016b511cef1a?sid=ed874407-2434-4799-a9d1-8ceca7556e4e
