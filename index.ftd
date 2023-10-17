@@ -105,20 +105,20 @@ Sayak and Shantnu are part of our team.
 
 ;;-- end: ftd.column
 
--- ftd.column:
+;;-- ftd.column:
 
 -- ftd.text: Demo Day 1
 style: bold
 region: h1
 
--- ftd.video:
-src: $assets.files.assets.Demo-Day-1.mp4
-controls: true
-width.fixed.px: 400
-height.fixed.px: 300
-fit: contain
+;;-- ftd.video:
+;;src: $assets.files.assets.Demo-Day-1.mp4
+;;controls: true
+;;width.fixed.px: 400
+;;height.fixed.px: 300
+;;fit: contain
 
--- end: ftd.column 
+;;-- end: ftd.column 
 
 -- ds.h3: 📚 References:
 
