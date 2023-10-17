@@ -47,59 +47,59 @@ Sayak and Shantnu are part of our team.
 -- ftd.column:
 spacing.fixed.px: 10
 
--- ftd.container:
+-- ftd.column:
 background.solid: grey
 
 - Meeting Date: 16th October, 2023
 - Meeting Timing: 9:30PM - 10:20PM (50 minutes)
 - Attendees: Sayak, Rutuja, AmitU
 
--- end: ftd.container
+-- end: ftd.column 
 
--- ftd.container:
+-- ftd.column:
 background.solid: grey
 
 - Meeting Date: 13th October, 2023
 - Meeting Timing: 7:00PM - 7:30PM
 - Attendees: Shantnu, Rutuja
 
--- end: ftd.container
+-- end: ftd.column 
 
--- ftd.container:
+-- ftd.column:
 background.solid: grey
 
 - Meeting Date: 12th October, 2023
 - Meeting Timing:  9:10PM - 9:40PM (30 minutes)
 - Attendees: Sayak, Rutuja
 
--- end: ftd.container
+-- end: ftd.column
 
--- ftd.container:
+-- ftd.column:
 background.solid: grey
 
 - Meeting Date: 11th October, 2023
 - Meeting Timing:  7:10PM - 7:35PM (35 minutes)
 - Attendees: Shantnu, Rutuja, AmitU
 
--- end: ftd.container
+-- end: ftd.column 
 
--- ftd.container:
+-- ftd.column:
 background.solid: grey
 
 - Meeting Date: 10th October, 2023
 - Meeting Timing: 7:00PM - 7:45PM (45 minutes)
 - Attendees: Shantnu, Rutuja, Sayak
 
--- end: ftd.container
+-- end: ftd.column 
 
--- ftd.container:
+-- ftd.column:
 background.solid: grey
 
 - Meeting Date: 9th October, 2023
 - Meeting Timing: 7:00PM - 8:00PM (60 minutes)
 - Attendees: Shantnu, Rutuja, Sayak, AmitU, Arpita
 
--- end: ftd.container 
+-- end: ftd.column 
 
 -- end: ftd.column
 
