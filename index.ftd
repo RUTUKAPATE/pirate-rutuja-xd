@@ -50,52 +50,53 @@ spacing.fixed.px: 10
 -- ftd.column:
 background.solid: grey
 
--- ftd.text: Meeting Date: 16th October, 2023
+-- ftd.text: Day 6
 
--- ftd.text:  Meeting Timing: 9:30PM - 10:20PM (50 minutes)
-
--- ftd.text: Attendees: Sayak, Rutuja, AmitU
-
--- end: ftd.column
-
--- ftd.column:
-background.solid: grey
-
--- ftd.text: Meeting Date: 13th October, 2023
-
--- ftd.text: Meeting Timing: 7:00PM - 7:30PM
-
--- ftd.text: Attendees: Shantnu, Rutuja
-
--- end: ftd.column 
-
--- ftd.column:
-background.solid: grey
-
--- ftd.text: Meeting Date: 12th October, 2023
-
--- ftd.text: Meeting Timing:  9:10PM - 9:40PM (30 minutes)
-
--- ftd.text: Attendees: Sayak, Rutuja
+- Meeting Date: 16th October, 2023
+- Meeting Timing: 9:30PM - 10:20PM (50 minutes)
+-Attendees: Sayak, Rutuja, AmitU
 
 -- end: ftd.column
 
 -- ftd.column:
 background.solid: grey
 
--- ftd.text: Meeting Date: 11th October, 2023
+-- ftd.text: Day 5
 
--- ftd.text: Meeting Timing:  7:10PM - 7:35PM (35 minutes)
-
--- ftd.text: Attendees: Shantnu, Rutuja, AmitU
+- Meeting Date: 13th October, 2023
+- Meeting Timing: 7:00PM - 7:30PM
+- Attendees: Shantnu, Rutuja
 
 -- end: ftd.column 
 
 -- ftd.column:
 background.solid: grey
 
--- ftd.text: Meeting Date: 10th October, 2023
+-- ftd.text: Day 4
 
+- Meeting Date: 12th October, 2023
+- Meeting Timing:  9:10PM - 9:40PM (30 minutes)
+- Attendees: Sayak, Rutuja
+
+-- end: ftd.column
+
+-- ftd.column:
+background.solid: grey
+
+-- ftd.text: Day 3
+
+- Meeting Date: 11th October, 2023
+- Meeting Timing:  7:10PM - 7:35PM (35 minutes)
+- Attendees: Shantnu, Rutuja, AmitU
+
+-- end: ftd.column 
+
+-- ftd.column:
+background.solid: grey
+
+-- ftd.text: Day 2
+
+- Meeting Date: 10th October, 2023
 - Meeting Timing: 7:00PM - 7:45PM (45 minutes)
 - Attendees: Shantnu, Rutuja, Sayak
 
@@ -104,8 +105,9 @@ background.solid: grey
 -- ftd.column:
 background.solid: grey
 
--- ftd.text: Meeting Date: 9th October, 2023
+-- ftd.text: Day 1
 
+- Meeting Date: 9th October, 2023
 - Meeting Timing: 7:00PM - 8:00PM (60 minutes)
 - Attendees: Shantnu, Rutuja, Sayak, AmitU, Arpita
 
@@ -113,7 +115,7 @@ background.solid: grey
 
 -- end: ftd.column
 
--- ds.h3: Demo Day 1
+-- ds.h3: First Demo Day
 
 -- ftd.video:
 src: $assets.files.assets.Demo-Day-1.mp4
