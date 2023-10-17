@@ -45,7 +45,7 @@ Sayak and Shantnu are part of our team.
 -- ds.h3: ⏳ Minutes of Meeting:
 
 -- ftd.column:
-spacing.fixed.px: 10
+;;spacing.fixed.px: 10
 
 -- ftd.column:
 background.solid: grey
