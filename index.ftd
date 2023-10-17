@@ -104,6 +104,9 @@ background.solid: grey
 
 -- ftd.column:
 background.solid: grey
+border-radius.px: 10
+width: fill-container
+height: fill-container
 
 -- ftd.text: 01. Meeting Date: 9th October, 2023
 
