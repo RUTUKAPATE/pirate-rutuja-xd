@@ -141,12 +141,12 @@ padding.px: 10
 
 -- ds.h3: First Demo Day
 
--- ftd.video:
-src: https://youtu.be/zOUlcQQWtX4?si=3tjD3LN8b3JDd06N
-controls: true
-width.fixed.px: 400
-height.fixed.px: 300
-fit: contain
+-- ftd.iframe:
+youtube: https://youtu.be/zOUlcQQWtX4?si=3tjD3LN8b3JDd06N
+;;controls: true
+;;width.fixed.px: 400
+;;height.fixed.px: 300
+;;fit: contain
 
 -- ds.h3: 📚 References:
 
