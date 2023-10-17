@@ -44,8 +44,8 @@ Sayak and Shantnu are part of our team.
 
 -- ds.h3: ⏳ Minutes of Meeting:
 
-;;-- ftd.column:
-;;spacing.fixed.px: 10
+-- ftd.column:
+spacing.fixed.px: 10
 
 -- ftd.column:
 background.solid: grey
@@ -58,14 +58,16 @@ background.solid: grey
 
 -- end: ftd.column
 
-;;-- ftd.column:
-;;background.solid: grey
+-- ftd.column:
+background.solid: grey
 
-;;- Meeting Date: 13th October, 2023
-;;- Meeting Timing: 7:00PM - 7:30PM
-;;- Attendees: Shantnu, Rutuja
+-- ftd.text: Meeting Date: 13th October, 2023
 
-;;-- end: ftd.column 
+-- ftd.text: Meeting Timing: 7:00PM - 7:30PM
+
+-- ftd.text: Attendees: Shantnu, Rutuja
+
+-- end: ftd.column 
 
 ;;-- ftd.column:
 ;;background.solid: grey
@@ -103,9 +105,7 @@ background.solid: grey
 
 ;;-- end: ftd.column 
 
-;;-- end: ftd.column
-
-;;-- ftd.column:
+-- end: ftd.column
 
 -- ds.h3: Demo Day 1
 
@@ -115,8 +115,6 @@ controls: true
 width.fixed.px: 400
 height.fixed.px: 300
 fit: contain
-
-;;-- end: ftd.column 
 
 -- ds.h3: 📚 References:
 
