@@ -6,61 +6,113 @@ logo-height: 150
 - Pirate Rutuja XD team was created on 9th Oct 2023.
 - Discord: [#pirate-rutuja-xd on fastn-stack](https://discord.com/channels/793929082483769345/1160940053044936704).
 
--- ds.h1: Team Lead
+-- ds.h3: 👩‍💼 Team Lead
 
 Rutuja is the team lead of the team Pirate Rutuja XD
 
--- ds.h1: Team Members
+-- ds.h3: 🤝 Team Members
 
 Sayak and Shantnu are part of our team.
 
--- ds.h1: Sprints
+-- ds.h3: Sprints
 
 - [fast-ober-1](sprints/fast-ober-1/)
 
--- ds.h3: ⚡️ Project Overview:
+-- ds.h3: 📊 Project Overview:
 
 - The project involves the creation of a comprehensive portfolio website with three distinct sections:
 - Personal Portfolio, Freelance Portfolio, and Business Portfolio. 
 - Each section will cater to different audiences and purposes.
 
--- ds.h3: ⚡ Goals and Objectives of the Project:
+-- ds.h3: 🎯 Goals and Objectives of the Project:
 
 - Personal Portfolio: Showcase personal skills, projects, and experiences.
 - Freelance Portfolio: Highlight freelance work and attract potential clients.
 - Business Portfolio: Display business-related projects and capabilities.
 
--- ds.h3: ⚡️ Technology Stack:
+-- ds.h3: 💻 Technology Stack:
 
 - language is ftd
 
--- ds.h3: ⚡️ Project Agenda:
+-- ds.h3: 🗓 Project Agenda:
 
--- ds.h3: ⚡️ Work Status
+-- ds.h3: 🚧 Work Status
 
-- Design of Portfolios: In Progress
-- Design of Home Pages: Completed
-- Structure of Home Pages: Completed
+- Design of Portfolios: 🚀 In Progress
+- Design of Home Pages: ✅️Completed
+- Structure of Home Pages: ✅️Completed
 
 -- ds.h3: ⏳ Minutes of Meeting:
+
+-- ftd.column:
+spacing.fixed.px: 10
+
+-- ftd.container:
+background.solid: grey
+
+- Meeting Date: 16th October, 2023
+- Meeting Timing: 9:30PM - 10:20PM (50 minutes)
+- Attendees: Sayak, Rutuja, AmitU
+
+-- end: ftd.container
+
+-- ftd.container:
+background.solid: grey
+
+- Meeting Date: 13th October, 2023
+- Meeting Timing: 7:00PM - 7:30PM
+- Attendees: Shantnu, Rutuja
+
+-- end: ftd.container
+
+-- ftd.container:
+background.solid: grey
 
 - Meeting Date: 12th October, 2023
 - Meeting Timing:  9:10PM - 9:40PM (30 minutes)
 - Attendees: Sayak, Rutuja
 
+-- end: ftd.container
+
+-- ftd.container:
+background.solid: grey
+
 - Meeting Date: 11th October, 2023
 - Meeting Timing:  7:10PM - 7:35PM (35 minutes)
 - Attendees: Shantnu, Rutuja, AmitU
+
+-- end: ftd.container
+
+-- ftd.container:
+background.solid: grey
 
 - Meeting Date: 10th October, 2023
 - Meeting Timing: 7:00PM - 7:45PM (45 minutes)
 - Attendees: Shantnu, Rutuja, Sayak
 
+-- end: ftd.container
+
+-- ftd.container:
+background.solid: grey
+
 - Meeting Date: 9th October, 2023
 - Meeting Timing: 7:00PM - 8:00PM (60 minutes)
 - Attendees: Shantnu, Rutuja, Sayak, AmitU, Arpita
 
--- ds.h3: 💻 References:
+-- end: ftd.container 
+
+-- end: ftd.column
+
+-- ds.h3: Demo Day 1
+
+-- ftd.video:
+src: https://www.loom.com/share/6345ca2c48fe4836bc91016b511cef1a?sid=ed874407-2434-4799-a9d1-8ceca7556e4e
+controls: true
+width.fixed.px: 400
+height.fixed.px: 300
+fit: contain
+
+-- ds.h3: 📚 References:
 
 - [Rutuja's Buisness Portfolio Design](https://freehtml5.co/preview/?item=architect-free-html5-bootstrap-template-for-architects-and-portfolio-websites)
 - [Sayak's Personal Portfolio Design](https://sayakongit.github.io/)
