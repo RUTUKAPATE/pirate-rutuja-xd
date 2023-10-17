@@ -105,11 +105,11 @@ background.solid: grey
 -- ftd.column:
 background.solid: grey
 
--- ftd.text: Day 1
+-- ftd.text: 01. Meeting Date: 9th October, 2023
 
-- Meeting Date--> 9th October, 2023
-- Meeting Timing--> 7:00PM - 8:00PM (60 minutes)
-- Attendees--> Shantnu, Rutuja, Sayak, AmitU, Arpita
+-- ftd.text: 02. Meeting Timing: 7:00PM - 8:00PM (60 minutes)
+
+-- ftd.text: 03. Attendees: Shantnu, Rutuja, Sayak, AmitU, Arpita
 
 -- end: ftd.column 
 
