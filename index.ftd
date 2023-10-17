@@ -1,3 +1,5 @@
+;;-- import: pirate-rutuja-xd/assets
+
 -- ds.page:
 site-name: Pirate Rutuja XD
 site-logo: $assets.files.assets.newlogo.png
@@ -103,14 +105,20 @@ Sayak and Shantnu are part of our team.
 
 ;;-- end: ftd.column
 
--- ds.h3: Demo Day 1
+;;-- ftd.column:
 
-;;-- ftd.video
-;;src: https://www.loom.com/share/6345ca2c48fe4836bc91016b511cef1a?sid=ed874407-2434-4799-a9d1-8ceca7556e4e
+-- ftd.text: Demo Day 1
+style: bold
+region: h1
+
+;;-- ftd.video:
+;;src: $assets.files.assets.Demo-Day-1.mp4
 ;;controls: true
 ;;width.fixed.px: 400
 ;;height.fixed.px: 300
 ;;fit: contain
+
+;;-- end: ftd.column 
 
 -- ds.h3: 📚 References:
 
