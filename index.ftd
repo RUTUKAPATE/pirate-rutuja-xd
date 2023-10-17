@@ -47,14 +47,14 @@ Sayak and Shantnu are part of our team.
 ;;-- ftd.column:
 ;;spacing.fixed.px: 10
 
-;;-- ftd.column:
-;;background.solid: grey
+-- ftd.container:
+background.solid: grey
 
 - Meeting Date: 16th October, 2023
 - Meeting Timing: 9:30PM - 10:20PM (50 minutes)
 - Attendees: Sayak, Rutuja, AmitU
 
-;;-- end: ftd.column 
+-- end: ftd.container
 
 ;;-- ftd.column:
 ;;background.solid: grey
